@@ -14,7 +14,7 @@ From a terminal in the project directory, run:
 make
 ```
 
-This will produce a director `wav.pdx` which can be loaded in the Playdate Simulator or on a physical Playdate device.
+This will produce a directory `wav.pdx` which can be loaded in the Playdate Simulator or on a physical Playdate device.
 
 ## Sample Usage
 
